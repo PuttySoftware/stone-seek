@@ -1,1 +1,3 @@
-# stone-seek
+# Stone Seek
+
+Maze-solving game involving stones.
